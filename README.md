@@ -6,10 +6,10 @@ A self-taught coder with basic chops. I tinker with Android stuff like modules, 
 When I don't code, I grind games or sit down and watch Anime or I sketch. Also I run several and my own channels on Telegram.
 
 # 👋 Send me a Hi via:
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/OptimizerS1) 
+![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/OptimizerS1) ![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)
 
 # ⌨️ Codes I know / still learning:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![Javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg) ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![Javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg) ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg) ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
 
 # 💻 Operating systems I use:
 ![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg) ![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg) ![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg)
