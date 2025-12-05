@@ -5,7 +5,7 @@
 ## 🙂 About me
 A self-taught coder with basic chops. I tinker with Android stuff like modules, modifications, and whatever sparks my interest—root tweaks, UI hacks, you name it!
 
-> When I don't code, I grind games or sit down and watch Anime or I sketch. Also I run several & my own channels on Telegram.
+> When I don't code, I grind games or sit down and watch Anime or I sketch. Also I run several and my own channels on Telegram.
 
 <br>
 
@@ -46,10 +46,11 @@ A self-taught coder with basic chops. I tinker with Android stuff like modules, 
 
 <br>
 
-# <p align="center"> 📊 GitHub Stats:
+### <p align="center"> 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Optimizers1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Optimizers1&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Optimizers1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Optimizers1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=OptimizerS1&theme=dracula&radius=10)
 
 ### <p align="center"> ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
