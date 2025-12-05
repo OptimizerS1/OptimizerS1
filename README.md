@@ -1,6 +1,6 @@
 ![Banner](https://github.com/OptimizerS1/OptimizerS1/blob/main/Banner.jpg)
 
-<h1 align="center">Hey there &#x1F44B;, I am Optim
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I am Optim!!
 
 # 🙂 About me
 A self-taught coder with basic chops. I tinker with Android stuff like modules, modifications, and whatever sparks my interest—root tweaks, UI hacks, you name it!
