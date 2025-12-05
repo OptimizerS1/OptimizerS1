@@ -1,10 +1,9 @@
 ![Banner](https://github.com/OptimizerS1/OptimizerS1/blob/main/Banner.jpg)
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Optimizers1">
-    <img src="https://komarev.com/ghpvc/?username=Optimizers1&label=Profile%20views&color=00FFFF&style=flat-square" alt="Optimizers1's profile views" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=OptimizerS1&repo=OptimizerS1&countColor=%235224c4" alt="Profile Views" class="center">
+</div>
+
 
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I am Optim!!
 
